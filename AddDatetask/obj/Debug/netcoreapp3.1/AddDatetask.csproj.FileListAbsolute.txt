@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\obj\Debug\netcoreapp3.1\AddDatetask.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\obj\Debug\netcoreapp3.1\AddDatetask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\obj\Debug\netcoreapp3.1\AddDatetask.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\obj\Debug\netcoreapp3.1\AddDatetask.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\obj\Debug\netcoreapp3.1\AddDatetask.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\bin\Debug\netcoreapp3.1\AddDatetask.exe
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\bin\Debug\netcoreapp3.1\AddDatetask.deps.json
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\bin\Debug\netcoreapp3.1\AddDatetask.runtimeconfig.json
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\bin\Debug\netcoreapp3.1\AddDatetask.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\bin\Debug\netcoreapp3.1\AddDatetask.dll
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\bin\Debug\netcoreapp3.1\AddDatetask.pdb
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\obj\Debug\netcoreapp3.1\AddDatetask.dll
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\obj\Debug\netcoreapp3.1\AddDatetask.pdb
+C:\Users\Aydan\Desktop\AddDatetask\AddDatetask\obj\Debug\netcoreapp3.1\AddDatetask.genruntimeconfig.cache
